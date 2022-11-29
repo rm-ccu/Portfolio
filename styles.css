@@ -3,7 +3,7 @@ body {
     background-image: url(steve-johnson-j-ZlgXrKr_4-unsplash.jpg);
     background-color: #cccccc;
     background-size: cover;
-    overflow: auto;
+    overflow: hidden;
     height: 100%;
     -webkit-user-select: none;
 }
